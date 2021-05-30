@@ -1,9 +1,9 @@
 ############################# feature ###################################
 feature:
-  enable : true
+  enable : false
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
+  title : We’re Gold, Diamond, and Polki Jewellery Manufacturers, Wholesalers & Retailers.
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_item : 
       # feature item loop

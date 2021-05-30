@@ -1,0 +1,206 @@
+::-moz-selection {
+  /* Code for Firefox */
+  color: #fff;
+  background: #d6c277;
+}
+
+::selection {
+  color: #fff;
+  background: #d6c277;
+}
+
+.btn-transparent:hover,
+.btn-transparent:focus {
+  background-color: #d6c277;
+  border: 1px solid transparent;
+  color: #fff;
+}
+
+.border-meghna:before {
+  background-color: #fff;
+  content: '';
+  height: 6px;
+  left: 50%;
+  margin-left: -20px;
+  position: absolute;
+  top: -4px;
+  width: 50px;
+  background-color: #d6c277;
+}
+
+
+a:focus,
+a:hover {
+  color: #d6c277;
+}
+
+.btn-main {
+  background: #d6c277;
+  color: #fff;
+  display: inline-block;
+  font-size: 14px;
+  letter-spacing: 1px;
+  padding: 10px 35px;
+  text-transform: uppercase;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link,
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .show>.nav-link {
+  color: #d6c277;
+}
+
+
+.title h2 span {
+    color: #d6c277;
+  }
+
+.header-bradcrumb a:hover {
+  color: #d6c277;  
+}
+
+.navbar-dark .navbar-nav .show>.nav-link {
+  color: #d6c277;
+}
+
+.hero-area .block .video-button {
+  background: #fff;
+  color: #d6c277;
+  display: inline-block;
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+}
+
+.about .block:hover {
+  border-bottom: 2px solid #d6c277;
+}
+
+.about-2 .content-block .media i {
+  font-size: 30px;
+  color: #d6c277;
+}
+
+.form-meghna input:hover,
+.form-meghna textarea:hover {
+  border-color: #d6c277;
+}
+
+#contact-submit {
+  border: 1px solid rgba(236, 239, 241, 0.07);
+  background: #d6c277;
+  padding: 12px 0;
+  width: 100%;
+  margin: 0;
+}
+
+.price-title h3 {
+  color: #d6c277;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+}
+
+.price-title .value {
+  color: #d6c277;
+  font-size: 30px;
+}
+
+.portfolio-filter .btn.active {
+  border-color: #d6c277;
+}
+
+.portfolio-block .caption .search-icon {
+  background: #d6c277;
+  width: 50px;
+  height: 50px;
+  color: #fff;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 30px;
+}
+
+.service-2 .service-item:hover i {
+  background: #fff;
+  color: #d6c277;
+}
+
+.service-2 .service-item i {
+  font-size: 30px;
+  display: inline-block;
+  background: #d6c277 none repeat scroll 0 0;
+  border-radius: 30px;
+  box-shadow: 0 5px 6px 0 rgba(0, 0, 0, 0.1);
+  color: #fff;
+  height: 55px;
+  line-height: 55px;
+  margin-bottom: 20px;
+  width: 55px;
+  transition: all 0.3s ease 0s;
+}
+
+.skill-bar .progress .progress-bar {
+  background: #d6c277;
+}
+
+.member-photo .mask ul li a:hover {
+  background-color: #fff;
+  color: #d6c277;
+  border: 1px solid transparent;
+}
+
+.owl-controls .owl-page.active span,
+.owl-controls .owl-page:hover span {
+  background-color: #d6c277;
+  border: 2px solid transparent;
+}
+
+
+.post-meta a {
+  color: #d6c277;
+}
+
+.next-prev a:hover {
+  color: #d6c277;
+}
+
+.social-profile ul li a i:hover {
+  color: #d6c277;
+}
+
+.comment-wrap .media .media-heading a {
+  color: #d6c277;
+  font-size: 13px;
+}
+
+.comment-reply-form input:focus,
+.comment-reply-form textarea:focus {
+  box-shadow: none;
+  border: 1px solid #d6c277;
+}
+
+.social-icon ul li a:hover {
+  background: #d6c277;
+}
+
+#scrollUp:hover {
+  background-color: #d6c277;
+  border: 1px solid #d6c277;
+}
+
+.form-control-meghna .form-control:focus {
+  border-color: #d6c277;
+  box-shadow: 0 0 0 0.2rem rgba(0, 174, 255, 0.432);
+}
+
+.pagination .page-item .page-link:hover {
+  background: #d6c277;
+  border-color: #d6c277;
+  color: #fff
+}
+
+.pagination .page-item.active .page-link {
+  background: #d6c277;
+  color: #fff;
+  border-color: #d6c277;
+}
