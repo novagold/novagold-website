@@ -1,27 +1,27 @@
 ############################# feature ###################################
 feature:
-  enable : false
+  enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
   title : We’re Gold, Diamond, and Polki Jewellery Manufacturers, Wholesalers & Retailers.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  content : "We are experts in a number of manufacturing techniques, blending old and new methods to give you the best of both. We transform your vision into art."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Pachi Work
+      icon : ti-control-play # themify icon pack : https://themify.me/themify-icons
+      content : Pachi jewellery is one of the popular and is widely accepted as modern fashion jewellery with emphasises more on the vibrancy of the gemstone colours set in myriad patterns.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Nakashi Work
+      icon : ti-control-play # themify icon pack : https://themify.me/themify-icons
+      content : Nakshi jewellery are a part of temple designs and originate from southern India and has existed from ancient times through the 21st century. As the meaning goes, in the making of these jewellery pieces, each step involved is very delicate and important for a purpose of its own.
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Kundan Work
+      icon : ti-control-play # themify icon pack : https://themify.me/themify-icons
+      content : Kundan jewellery is really precious and is worth knowing about it since the beginning of its production. It is said to have originated in the royal courts of Rajasthan and further flourished under the royal patronage of the Mughal era.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Polki/Diamond Work
+      icon : ti-control-play # themify icon pack : https://themify.me/themify-icons
+      content : This centuries-old craft has been proudly passed on for generations and enjoys unparalleled heirloom status till date. While both are natural, uncut diamonds are unfaceted, whereas every facet of a cut diamond is enhanced by the jeweller to emit light, resulting in their high-shine brilliance.
